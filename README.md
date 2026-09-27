@@ -84,9 +84,9 @@ Prerequisites
 Make sure the following are installed:
 
 Java JDK
-Eclipse
+Eclipse IDE
 Maven
-Chrome Browser
+Google Chrome
 Steps
 Clone the repository.
 Import the project into Eclipse as a Maven project.
@@ -98,11 +98,12 @@ Test Framework
 
 The framework uses:
 
-Selenium WebDriver for browser automation
-TestNG for test execution
-Maven for dependency management
-Page Object Model for maintainable test automation
-Log4j2 for logging
+Selenium WebDriver – browser automation
+TestNG – test execution
+Maven – dependency management
+Page Object Model – maintainable and reusable automation
+Log4j2 – logging
+Git & GitHub – version control
 Key Features
 Page Object Model implementation
 Reusable page classes
